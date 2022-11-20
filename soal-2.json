@@ -1,0 +1,1003 @@
+[
+  {
+    "komoditas": "lele, bawal, nila",
+    "berat": "lele 6kg, bawal 1kg, nila 1kg"
+  },
+  {
+    "komoditas": "kakap lele kembung tongkol salem",
+    "berat": "kakap 2kg lele 1kg kembung 1kg tongkol 1kg salem 1kg"
+  },
+  {
+    "komoditas": "nila kembung tongkol lele bawal",
+    "berat": "nila 1kg bawal 2kg kembung 5kg lele 2kg tongkol 3kg"
+  },
+  {
+    "komoditas": "lele, kerapu, ikan mas, pindang tongkol, gurame",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "ikan patin, ikan mas, ikan kembung",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "patin, kembung, lele, ikan tongkol bandeng",
+    "berat": "rata2 1 kg"
+  },
+  {
+    "komoditas": "ikan mas, kembung, lele, tongkol",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele, ikan mas, tongkol, kembung, bandeng, patin",
+    "berat": "kurang dari 1kg"
+  },
+  {
+    "komoditas": "patin, bandeng, kembung",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "ikan mas, nila/jaer, patin, tongkol, kembung",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "ikan mujaer, ikan mas",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele, mas, bandeng, tongkol, patin",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "tongkol, salem, lele, mujaer, kakap",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "tongkol bawal salem mujair kembung kakap",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "lele dan nila",
+    "berat": "lele 3kg nila 2 kg"
+  },
+  {
+    "komoditas": "gurame, kakap, kerapu, bawal",
+    "berat": "8kg rata2"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "ikan lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "kembung, lele, patin, kakap, salem",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele, nila, kembung, tongkol",
+    "berat": "rata2 2 kg"
+  },
+  {
+    "komoditas": "kembung , kakap, tongkol, mujaer/nila, lele , mas",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "gurami, bawal, kerapu, cumi",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "gurame dan bawal",
+    "berat": "2kg rata rata"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "gurame, kakap, kerapu",
+    "berat": "2kg ratarata"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele, patin, bawal, salem, kembung,tongkol",
+    "berat": "rata rata 2kg"
+  },
+  {
+    "komoditas": "nila bawal tongkol",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "bandeng, patin, kembung, mas, tongkol",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele, mas ",
+    "berat": "1 kg "
+  },
+  {
+    "komoditas": "kembung, tongkol, bawal, lele",
+    "berat": "1 kg rata rata"
+  },
+  {
+    "komoditas": "bandeng, kembung",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele, kembung, patin, tongkol",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele, nila, mas, bawal",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "lele,kembung, bawal, nila, tongkol",
+    "berat": "rata2 1kg"
+  },
+  {
+    "komoditas": "lele, kembung, patin, nila, tongkol, mas, salem, bawal",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele, patin, bawal, kembung, kepala kakap, tongkol",
+    "berat": "1kg rata rata"
+  },
+  {
+    "komoditas": "lelw, patin, bawal, kembung, kakap, nila",
+    "berat": "1kg rata rata"
+  },
+  {
+    "komoditas": "gurame, bawal, bawal, kakap, cumi",
+    "berat": "rata rata 2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele, kembung, nila, patin, kakap",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele, mas, jaer, kembung",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele, patin, nila, bawal, kembung, kakap",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol, kembung, nila, lele",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele, kakap, patin, bawal",
+    "berat": "1kg rata2"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "setengah kilo"
+  },
+  {
+    "komoditas": "patin, lele, tongkol, kembung",
+    "berat": "1kg rata rata kecuali kembung 2 kg"
+  },
+  {
+    "komoditas": "tongkol kakap",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "tongkol kembung",
+    "berat": "1kg "
+  },
+  {
+    "komoditas": "kakap, kembung, tongkol, patin",
+    "berat": "gak nentu"
+  },
+  {
+    "komoditas": "kembung patin lele",
+    "berat": "setengan kilo"
+  },
+  {
+    "komoditas": "lele, patin, tongkol, kakap, kembung",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "kembung, salem, lele",
+    "berat": "gak tau katanya cuma jaga warung"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele, kakap, patin, tongkol, kembung",
+    "berat": "rata rata 1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5 kg"
+  },
+  {
+    "komoditas": "salem",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "mujair",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "patin",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "gabus",
+    "berat": "1 kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kembung",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kembung, tongkol, lele, nila, patin",
+    "berat": "1,5 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3-4kg"
+  },
+  {
+    "komoditas": "lele, parin, kakap, kembung, tongkol",
+    "berat": "1,5 kg ratarata"
+  },
+  {
+    "komoditas": "lele, kembung, nila, tongkol",
+    "berat": "1kg rata"
+  },
+  {
+    "komoditas": "nila, mas, bawal, kembung, lele",
+    "berat": "1kg rata rata"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "salem, kembung, tongkol, mujaer, lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele, patin, tongkol, kembung, kakap",
+    "berat": "1.5 kg rata rata"
+  },
+  {
+    "komoditas": "kembung, lele, patin, nila, kakap",
+    "berat": "1kg rata rata"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele ayam",
+    "berat": "5 kg"
+  },
+  {
+    "komoditas": "ikan lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "6 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "6 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5 kg"
+  },
+  {
+    "komoditas": "lele , nila ",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4 kg"
+  },
+  {
+    "komoditas": "tongkol , patin , lele , mas",
+    "berat": "1/2 kg"
+  },
+  {
+    "komoditas": "lele , patin , mas ",
+    "berat": "1 kg "
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5 kg"
+  },
+  {
+    "komoditas": "soto ayam babat kikil lele",
+    "berat": "7 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "sea food",
+    "berat": "cumi 1 kg.  lele 4 kg.udang cumi 1kg"
+  },
+  {
+    "komoditas": "kerapu , barunang , kakap , gurame ",
+    "berat": "3 kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3 kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1-2kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "1-2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "2-4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "1-2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3 kg"
+  },
+  {
+    "komoditas": "mujaer",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2 kg"
+  },
+  {
+    "komoditas": "patin",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "kembung",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "jambal",
+    "berat": "1/2"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "gembung",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mujaer",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "gurame",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "patin",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kembung",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "mujaer",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "4kg"
+  },
+
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5 kg"
+  },
+  {
+    "komoditas": "bawal",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2-5kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1-2kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "6kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4-6kg"
+  },
+  {
+    "komoditas": "bawal",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "bawal",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "patin",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mujaer",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "bawal",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "gurame",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "nila ",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "4g"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "mujair",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "bawal",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "nila",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "kakap",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "tongkol",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "mujaer",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1-5kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "3kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "2kg"
+  },
+  {
+    "komoditas": "mas",
+    "berat": "1kg"
+  },
+  {
+    "komoditas": "mas, mujair, lele",
+    "berat": "2kg,1kg,3kg"
+  },
+  {
+    "komoditas": "tongkol, lele",
+    "berat": "3kg, 2kg"
+  },
+  {
+    "komoditas": "mas, lele, tongkol",
+    "berat": "3kg, 2kg, 2kg"
+  },
+  {
+    "komoditas": "tongkol, kakap, lele",
+    "berat": "2kg, 2kg, 2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "5kg"
+  },
+  {
+    "komoditas": "gurame, bawal, mas, nila",
+    "berat": "3kg, 2kg, 3kg, 2kg"
+  },
+  {
+    "komoditas": "gurame, nila, patin, kakap",
+    "berat": "2kg, 3kg, 2kg, 2kg"
+  },
+  {
+    "komoditas": "lele, tongkol, nila",
+    "berat": "2kg, 3kg, 1kg"
+  },
+  {
+    "komoditas": "mas, bawal, gurame, nila, patin",
+    "berat": "3kg, 3kg, 3kg, 2kg, 2kg"
+  },
+  {
+    "komoditas": "mas, tongkol",
+    "berat": "2kg, 2kg"
+  },
+  {
+    "komoditas": "lele",
+    "berat": "4kg"
+  },
+  {
+    "komoditas": "tongkol, lele, nila",
+    "berat": "3kg, 2kg, 2kg"
+  }
+]
